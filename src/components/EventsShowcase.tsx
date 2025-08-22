@@ -23,10 +23,10 @@ export const EventsShowcase = () => {
       <div className="container mx-auto max-w-6xl">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold bg-gradient-hero bg-clip-text text-transparent mb-6">
-            Our Amazing Events
+            Past Events & Memories
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Discover the vibrant campus life through our tech competitions and cultural celebrations
+            Relive the amazing moments from our vibrant campus events and celebrations
           </p>
         </div>
         
